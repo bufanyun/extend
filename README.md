@@ -2,7 +2,7 @@
 Bufanyun Extend
 ================
 
-This package is an extension package for quick access to common methods when creating a new cross-framework project.
+这个是PHP一个扩展包，用于在创建新的跨框架项目时快速部署常用方法，实现项目快速落地。
 
 Example
 -------
@@ -32,37 +32,7 @@ All contents of this package are licensed under the [MIT license].
 [issue tracker]: https://github.com/bufanyun/extend/issues
 [Git repository]: https://github.com/bufanyun/extend
 [@homepage]: https://github.com/bufanyun
-[MIT license]: LICENSE
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
+[MIT license]: https://github.com/bufanyun/extend/blob/master/LICENSE.md
 
 
   
