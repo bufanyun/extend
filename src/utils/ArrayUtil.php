@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace bufanyun\util;
+namespace bufanyun\utils;
 
 /**
  * 数组帮助类

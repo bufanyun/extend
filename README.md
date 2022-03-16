@@ -9,7 +9,7 @@ Example
 
 ```php
 // 数组类
-use bufanyun\extend\util\ArrayUtil;
+use bufanyun\extend\utils\ArrayUtil;
 ```
 
 
@@ -32,7 +32,7 @@ All contents of this package are licensed under the [MIT license].
 [issue tracker]: https://github.com/bufanyun/extend/issues
 [Git repository]: https://github.com/bufanyun/extend
 [@homepage]: https://github.com/bufanyun
-[MIT license]: https://github.com/bufanyun/extend/blob/master/LICENSE.md
+[MIT license]: https://github.com/bufanyun/extend/blob/master/LICENSE
 
 
   
