@@ -29,7 +29,7 @@ class ArrayUtil
                     $data[$i] += $total_money;
                 } else {
                     $max_money = floor($total_money / $i);
-                    $ls_money  = mt_rand(0, $max_money);
+                    $ls_money  = mt_rand(0, (int)$max_money);
                     $data[$i]  += $ls_money;
                 }
             }
