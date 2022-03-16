@@ -1,0 +1,23 @@
+{
+  "name": "bufanyun/extend",
+  "description": "PHP常用扩展，包括常用帮助函数等",
+  "license": "MIT",
+  "type": "library",
+  "keywords": [
+    "extend",
+    "bufanyun"
+  ],
+  "authors": [
+    {
+      "name": "MengShuai",
+      "email": "133814250@qq.com",
+      "homepage": "https://gitee.com/bufanyun"
+    }
+  ],
+  "homepage": "https://gitee.com/bufanyun",
+  "autoload": {
+    "psr-4": {
+      "bufanyun\\extend\\": "src/"
+    }
+  }
+}
