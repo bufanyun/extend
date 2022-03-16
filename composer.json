@@ -11,10 +11,10 @@
     {
       "name": "MengShuai",
       "email": "133814250@qq.com",
-      "homepage": "https://gitee.com/bufanyun"
+      "homepage": "https://github.com/bufanyun"
     }
   ],
-  "homepage": "https://gitee.com/bufanyun",
+  "homepage": "https://github.com/bufanyun",
   "autoload": {
     "psr-4": {
       "bufanyun\\extend\\": "src/"
